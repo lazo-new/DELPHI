@@ -1,3 +1,3 @@
 # DELPHI
-Function and Procedure for Word office
+functions and procedures from Delphi to create Word Office documents
  
