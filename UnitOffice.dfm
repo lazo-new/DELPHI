@@ -1,8 +1,8 @@
 object FormOffice: TFormOffice
-  Left = 778
-  Top = 254
+  Left = 290
+  Top = 324
   BorderStyle = bsNone
-  Caption = 'FormOffice'
+  Caption = 'b'
   ClientHeight = 232
   ClientWidth = 504
   Color = clNavy
@@ -15,6 +15,7 @@ object FormOffice: TFormOffice
   OldCreateOrder = False
   Position = poDesktopCenter
   OnActivate = FormActivate
+  OnClose = FormClose
   OnCreate = FormCreate
   PixelsPerInch = 96
   TextHeight = 13
@@ -608,7 +609,7 @@ object FormOffice: TFormOffice
     Height = 15
     AsyncDrawing = True
     Animate = True
-    FrameIndex = 4
+    FrameIndex = 14
     Image.Data = {
       493400004749463839618C000F00C41D008487859E9B9E7C7F7D393C39A6A3A6
       3A373A4340424144425B5E5C9597958E8B8D7477752926284A4D4B7E7B7D5C5A
