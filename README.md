@@ -1,5 +1,5 @@
 # DELPHI
-functions and procedures from Delphi to create Word Office documents
+functions and procedures from Delphi to create Word Office and Excel Office documents
 
 Лицензия
 
