@@ -609,7 +609,7 @@ object FormOffice: TFormOffice
     Height = 15
     AsyncDrawing = True
     Animate = True
-    FrameIndex = 1
+    FrameIndex = 17
     Image.Data = {
       493400004749463839618C000F00C41D008487859E9B9E7C7F7D393C39A6A3A6
       3A373A4340424144425B5E5C9597958E8B8D7477752926284A4D4B7E7B7D5C5A

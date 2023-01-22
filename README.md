@@ -51,11 +51,11 @@ public
 
 ### formOffice.main_(0) - работа будет с Excel 
 formOffice.VisibleExcel(True);
-+ ![Загрузка Excel](/images/excel.jpg)
++ ![Загрузка Excel](/images/excel.png)
 
 ### formOffice.main_(1) - работа будет с Word
 formOffice.VisibleWord(True);
-+ ![Загрузка Word](/images/word.jpg)
++ ![Загрузка Word](/images/word.png)
 
 ### Примеры:
 formOffice.WordTablesCellValue(formOffice.mWord,2,i,1,'Пример','Arial',12,False,False,0,clBlack,1);
